@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313w5mxkk4iq44dpoqy4jw4yuzfy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=313w5mxkk4iq44dpoqy4jw4yuzfy&redirect=true)
+
 <!--
 **Broodje565/broodje565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
