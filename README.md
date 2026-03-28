@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=broodje565&color=6366f1&style=flat" />
+  <img src="https://broodje56.pythonanywhere.com/badge" />
 </p>
 
 ---
