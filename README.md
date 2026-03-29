@@ -4,9 +4,7 @@
   <i>just building stuff & listening to music 🎧</i>
 </p>
 
-<p align="center">
-  <img src="https://broodje56.pythonanywhere.com/badge" />
-</p>
+<img src="https://broodje56.pythonanywhere.com/badge" />
 
 ---
 
