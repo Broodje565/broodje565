@@ -10,36 +10,21 @@
 
 ---
 
-## 📊 Coding Activity
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=30915&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=broodje565&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=broodje565&theme=radical&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=broodje565&theme=react-dark&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/broodje565?cardType=level&theme=github-dark" />
+</p>
 
 ---
 
 ## 🎧 Currently Vibing To
 
-<div align="center">
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313w5mxkk4iq44dpoqy4jw4yuzfy&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w5mxkk4iq44dpoqy4jw4yuzfy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313w5mxkk4iq44dpoqy4jw4yuzfy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
   </a>
-</div>
+</p>
 
 ---
 
