@@ -28,7 +28,7 @@
 
 > A browser extension that supercharges **Smartschool**, the learning platform used by Belgian schools, with themes, widgets, games and more.
 
-* **~20,000 users** on the Chrome Web Store
+* **~30,000 users** on the Chrome Web Store
 * Also available for **Firefox**
 * **Manifest V3 · TypeScript**
 * Privacy-first: only storage permission, with no data collection
