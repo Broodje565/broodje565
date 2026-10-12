@@ -4,10 +4,6 @@
   <strong>Developer Coordinator @ Smartschool++</strong>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=broodje565&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
